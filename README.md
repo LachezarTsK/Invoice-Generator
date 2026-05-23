@@ -1,4 +1,4 @@
-#Tags: React, Vite, JavaScript, HTML, CSS.
+**Tags: React, Vite, JavaScript, HTML, CSS.**
 
 To run the application, click on https://lachezartsk.github.io/Invoice-Generator/
 
