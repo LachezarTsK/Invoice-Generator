@@ -1,0 +1,27 @@
+.popup {
+  width: fit-content;
+  height: fit-content;
+  min-height: 40px;
+  margin-bottom: 10px;
+  color: black;
+  border: 2px solid black;
+  border-radius: 10px;
+  font-size: 12px;
+  font-weight: bold;
+  padding: 2px;
+}
+
+.popup.negative {
+  background-color: red;
+}
+
+.popup.positive {
+  background-color: rgb(144, 238, 144);
+  min-height: 20px;
+}
+
+.popup.negativeDate {
+  background-color: red;
+  width: fit-content;
+  min-height: 10px;
+}

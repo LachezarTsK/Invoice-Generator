@@ -1,0 +1,34 @@
+.containerDate {
+  display: flex;
+  align-self: flex-start;
+  margin-left: 600px;
+  flex-direction: column;
+  margin-top: 5px;
+  background-color: aquamarine;
+}
+
+.textDate {
+  width: 200px;
+  min-height: 80px;
+  height: fit-content;
+  background-color: rgb(144, 213, 255);
+  color: blue;
+  border: 2px solid green;
+  border-radius: 10px;
+  align-self: right;
+  margin: 2px;
+  padding: 2px;
+  font-family:
+    "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif !important;
+  font-weight: bold;
+  font-size: medium;
+}
+
+.containerDate.andOtherInfo {
+  display: flex;
+  align-self: flex-start;
+  margin-left: 600px;
+  flex-direction: row;
+  margin-top: 5px;
+  background-color: aquamarine;
+}

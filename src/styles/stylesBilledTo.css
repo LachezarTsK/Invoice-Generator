@@ -1,0 +1,46 @@
+.containerBilledTo {
+  display: flex;
+  align-self: flex-start;
+  flex-direction: column;
+  background-color: aquamarine;
+}
+
+.containerInputBilledTo {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  background-color: aquamarine;
+}
+
+.textBilledTo {
+  width: 120px;
+  height: 29px;
+  background-color: green;
+  color: white;
+  border: 2px solid green;
+  border-radius: 10px;
+  align-self: right;
+  margin: 2px;
+  padding: 2px;
+  font-family:
+    "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif !important;
+  font-weight: bold;
+  font-size: medium;
+}
+
+.inputBilledTo {
+  width: 280px;
+  height: 29px;
+  border: 2px solid blue;
+  border-radius: 10px;
+  align-self: left;
+  margin: 2px;
+  padding: 2px;
+  font-family:
+    "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif !important;
+}
+
+.textBilledTo.topLabel {
+  width: 410px;
+  margin-left: 70px;
+}
